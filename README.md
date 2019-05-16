@@ -10,9 +10,13 @@ For that,
 4. Finally your 'Signatures already approved' section will look something like this:
 
 `method java.util.Properties getProperty java.lang.String
+
 method java.util.Properties load java.io.InputStream
+
 new java.io.File java.lang.String
+
 new java.util.Properties
+
 staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods newDataInputStream java.io.File`
 
 5. Done
